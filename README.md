@@ -1,2 +1,6 @@
 # Watching-You-Watching-Me
-Raqs Workshop Eskwela
+In 2019, Amay Kataria was invited to attend a seminar with [Raqs Media Collective](https://www.raqsmediacollective.net/) at [ESKWELA](https://www.eskwelabap.com/about) in Manilla, Philippines. As part of the workshop, he developed a new work where a performer embodies a fictional universal entity of a Governor, so to say the Master of Information, with their voice and gaze (inspired by the Panopticon Writings) to provoke a reconsideration of ‘trust for information.’ Is a data-driven society more secure or more vulnerable? In a situation where data is fed to algorithms to deduce political orientations, product recommendations, human connections, or nation-wide social credit systems, the constant breach of trust by technological companies marks an active fault line between the users and the governors of this data. As digital citizens of this society, what rights does one have to tackle such breach of trust? Watching You, Watching Me was performed on the last day of the workshop with this prose.
+
+The work was developed using custom shaders and bootstrapped using an open-source creating coding library called [Open-Frameworks](https://openframeworks.cc/).
+
+![Movies   TV 12_12_2021 3_57_46 PM (4)](https://user-images.githubusercontent.com/4178424/145731242-3a4260cb-6cff-4ac8-ac80-14ae04c34464.png)
